@@ -1,4 +1,5 @@
 AirBnB Price Prediction Machine Learning Project
+---------------------------------------------------
 
 Welcome to the AirBnB Price Prediction Machine Learning project! This project leverages various machine learning algorithms to predict the prices of AirBnB listings based on a comprehensive dataset of features such as location, property type, number of bedrooms, and amenities.
 
@@ -55,7 +56,10 @@ License :
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
+References :
 
+https://www.kaggle.com/code/tahirelfaki/airbnb-price-prediction-model-linear-regression
 
+Contact If you have any questions, suggestions, or feedback, feel free to contact me.
 
-
+Email ID : vsanisha8@gmail.com
