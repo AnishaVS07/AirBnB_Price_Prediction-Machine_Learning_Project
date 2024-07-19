@@ -16,8 +16,10 @@ Table of Contents :
 ~ Tools and Technologies
 
 ~ Results
-~ Contributing
+
 ~ License
+
+~ References
 
 Features :
 
