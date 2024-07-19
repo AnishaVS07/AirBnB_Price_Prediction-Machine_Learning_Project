@@ -60,6 +60,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 References :
 
+https://www.kaggle.com/code/lxy21495892/airbnb-eda-pygwalker-demo/input
 https://www.kaggle.com/code/tahirelfaki/airbnb-price-prediction-model-linear-regression
 
 Contact If you have any questions, suggestions, or feedback, feel free to contact me.
